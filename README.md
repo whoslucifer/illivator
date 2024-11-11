@@ -20,7 +20,7 @@
 
       java Main
 
-![Screenshot 2024-11-11 120100](https://github.com/user-attachments/assets/ebfbd75c-b94d-4eee-b064-d972ec43e359)
+![Screenshot 2024-11-11 124317](https://github.com/user-attachments/assets/e45f5469-99b4-4c0d-96fa-09b22bade72d)
 
 
 
@@ -35,8 +35,3 @@
 
 
 
-  
-       
- 
- 
- 
